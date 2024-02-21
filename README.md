@@ -38,5 +38,5 @@ Feel free to explore and modify the code to learn more about Swift, SwiftUI, and
 - Contributions are welcome! Please feel free to submit pull requests, report bugs, or suggest features.
 
 ### Acknowledgments
-- Lottie[https://github.com/airbnb/lottie-ios] by Airbnb for providing an easy-to-use animation library.
+- Lottie(https://github.com/airbnb/lottie-ios) by Airbnb for providing an easy-to-use animation library.
 - The Swift and SwiftUI community for continuously pushing the boundaries of what's possible in app development.
